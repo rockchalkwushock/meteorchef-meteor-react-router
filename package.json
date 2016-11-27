@@ -1,0 +1,30 @@
+{
+  "name": "meteorchef-meteor-react-router",
+  "version": "1.0.0",
+  "description": "Example app integrating React-Router & Meteor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockchalkwushock/meteorchef-meteor-react-router.git"
+  },
+  "keywords": [
+    "meteor",
+    "react",
+    "react-dom",
+    "react-router"
+  ],
+  "author": "Cody Brunner <rockchalkwushock@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockchalkwushock/meteorchef-meteor-react-router/issues"
+  },
+  "homepage": "https://github.com/rockchalkwushock/meteorchef-meteor-react-router#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-router": "^3.0.0"
+  }
+}
